@@ -39,10 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+**Winning the game**
+<img src = "http://g.recordit.co/cqfx8lsXT2.gif" width = 400 height = 170><br>
+**Losing the game**
 <img src = "http://g.recordit.co/Ao6bzQdixX.gif" width = 400 height = 170><br>
-![](gif3-link-here)
-![](gif4-link-here)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
