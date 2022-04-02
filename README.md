@@ -24,10 +24,6 @@ The following **optional** features are implemented:
 
 * [ ] More than 4 functional game buttons
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
-
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
