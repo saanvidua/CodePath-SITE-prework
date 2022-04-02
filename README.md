@@ -4,7 +4,7 @@
 
 Submitted by: **SAANVI DUA**
 
-Time spent: **4** hours spent in total
+Time spent: **5.5** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/crocus-grape-vinyl?path=index.html%3A24%3A33
 
