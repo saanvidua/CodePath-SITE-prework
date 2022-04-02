@@ -46,7 +46,7 @@ https://www.khanacademy.org/computing/computer-programming/html-css
 **Since I do not have much experience with frontend development, I enjoyed learning the basics by applying it to a fun game. The biggest challenge was definitely writing the guess function, since I am still not familiar with the syntax yet. To overcome it, I watched a video on the basic concepts of JavaScript and went over the given code to make sure I was doing it correctly.**<br>
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)<br>
-**1. WHat is the most efficient way to debug code when it comes to web development?**<br>
+**1. What is the most efficient way to debug code when it comes to web development?**<br>
 **2. How do you know what language is best at handling a particular aspect of the website?**<br>
 **3. What differentiates a good website from a great one?**<br>
 
