@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](gif1-link-here)
-<img src = "http://g.recordit.co/Ao6bzQdixX.gif" width = 300 height = 75><br>
+<img src = "http://g.recordit.co/Ao6bzQdixX.gif" width = 300 height = 130><br>
 ![](gif3-link-here)
 ![](gif4-link-here)
 
